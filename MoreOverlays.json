@@ -3,7 +3,7 @@
   "promos":{
     "1.9.4-recommended":"1.6",
     "1.10-recommended":"1.6",
-    "1.10.2-recommended":"1.6"
+    "1.10.2-recommended":"1.7"
   },
 
   "1.9.4": {
@@ -19,6 +19,7 @@
   "1.10.2": {
     "1.4":"Added API to override Slot positions\nAdded slot position override for Mantle",
     "1.5":"Added version json for update checks\nAdded option to change line width and colors\nFixed invisible lines with Shader",
-    "1.6":"Updated to Forge 12.17.0.1976\nUpdated to JEI 3.6.8.224"
+    "1.6":"Updated to Forge 12.17.0.1976\nUpdated to JEI 3.6.8.224",
+    "1.7":"Updated to Forge & JEI\nFixed blinking JEI Tooltips\nFixed non matching items when filter is empty"
   }
 }
