@@ -3,7 +3,8 @@
   "promos":{
     "1.9.4-recommended":"1.6",
     "1.10-recommended":"1.6",
-    "1.10.2-recommended":"1.7"
+    "1.10.2-recommended":"1.9",
+    "1.11-recommended":"1.9"
   },
 
   "1.9.4": {
@@ -20,7 +21,11 @@
     "1.4":"Added API to override Slot positions\nAdded slot position override for Mantle",
     "1.5":"Added version json for update checks\nAdded option to change line width and colors\nFixed invisible lines with Shader",
     "1.6":"Updated to Forge 12.17.0.1976\nUpdated to JEI 3.6.8.224",
-    "1.7":"Updated Forge & JEI\nFixed blinking JEI Tooltips\nFixed non matching items when filter is empty"
-    "1.8":"Improve startup time and reduce log spam (by mezz)\nShow Key to disable Item Search (config option, default true)"
+    "1.7":"Updated Forge & JEI\nFixed blinking JEI Tooltips\nFixed non matching items when filter is empty",
+    "1.8":"Improve startup time and reduce log spam (by mezz)\nShow Key to disable Item Search (config option, default true)",
+    "1.9":"Updated Forge & JEI\nFixed Tooltip on empty slots if Waila is installed"
+  },
+  "1.11": {
+    "1.9":"Updated to Minecraft 1.11"
   }
 }
