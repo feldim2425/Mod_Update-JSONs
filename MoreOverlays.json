@@ -5,7 +5,7 @@
     "1.10-recommended":"1.6",
     "1.10.2-recommended":"1.11",
     "1.11-recommended":"1.9",
-    "1.11.2-recommended":"1.11"
+    "1.11.2-recommended":"1.12"
   },
 
   "1.9.4": {
@@ -33,6 +33,7 @@
   },
   "1.11.2": {
     "1.10":"Added config option to set the Safe Light Level. (For mods that change the Vanilla Value)\nRemoved Inventory Search Key Binding & Notification Text",
-    "1.11":"Updated JEI ( Fixed Crash )\nRemoved useless language keys\nAdded Russian translation ( Thanks raspopov )"
+    "1.11":"Updated JEI ( Fixed Crash )\nRemoved useless language keys\nAdded Russian translation ( Thanks raspopov )",
+    "1.12":"Updated JEI ( Fixed Crash )\nUpdated Mantle\nUpdated Forge"
   }
 }
