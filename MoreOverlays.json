@@ -6,7 +6,8 @@
     "1.10.2-recommended":"1.11",
     "1.11-recommended":"1.9",
     "1.11.2-recommended":"1.12",
-    "1.12-recommended":"1.12"
+    "1.12-recommended":"1.13"
+    "1.12.1-recommended":"1.13"
   },
 
   "1.9.4": {
@@ -39,5 +40,9 @@
   },
   "1.12": {
     "1.12":"Updated to Minecraft 1.12"
+  },
+  "1.12": {
+    "1.12":"Removed spawn overlay Y-Clamps\nFixed lightning bug\nAdded Config option to match NBT",
+    "1.12.1":"Removed spawn overlay Y-Clamps\nFixed lightning bug\nAdded Config option to match NBT"
   }
 }
