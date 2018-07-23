@@ -7,7 +7,8 @@
     "1.11-recommended":"1.9",
     "1.11.2-recommended":"1.12",
     "1.12-recommended":"1.13",
-    "1.12.1-recommended":"1.13"
+    "1.12.1-recommended":"1.13",
+    "1.12.2-recommended":"1.14"
   },
 
   "1.9.4": {
@@ -44,5 +45,8 @@
   "1.13": {
     "1.12":"Removed spawn overlay Y-Clamps\nFixed lightning bug\nAdded Config option to match NBT",
     "1.12.1":"Removed spawn overlay Y-Clamps\nFixed lightning bug\nAdded Config option to match NBT"
+  },
+  "1.14": {
+    "1.12.2":"Updated Forge 14.23.4.2739 & JEI 4.11.0.202\n Fixed: All items were highlighted if the JEI search contains Damageable items (fixed by Shovinus)\nRemoved Y-Coordinate clamps"
   }
 }
