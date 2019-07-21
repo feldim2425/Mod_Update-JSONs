@@ -8,7 +8,7 @@
     "1.11.2-recommended":"1.12",
     "1.12-recommended":"1.13",
     "1.12.1-recommended":"1.13",
-    "1.12.2-recommended":"1.15.0"
+    "1.12.2-recommended":"1.15.1"
   },
 
   "1.9.4": {
@@ -48,6 +48,7 @@
   },
   "1.12.2": {
     "1.14":"Updated Forge 14.23.4.2739 & JEI 4.11.0.202\n Fixed: All items were highlighted if the JEI search contains Damageable items (fixed by Shovinus)\nRemoved Y-Coordinate clamps",
-    "1.15.0":"Updated Forge 14.23.5.2768 & JEI 4.15.0.268\nFixed: Item nbt matching\nAdded: CustomMobSpawner integration ( Thanks xs2007 & chickenbones )\nAdded: Region overlay ( Thanks Foghrye4 )\nFixed: Creative Inventory Item search" 
+    "1.15.0":"Updated Forge 14.23.5.2768 & JEI 4.15.0.268\nFixed: Item nbt matching\nAdded: CustomMobSpawner integration ( Thanks xs2007 & chickenbones )\nAdded: Region overlay ( Thanks Foghrye4 )\nFixed: Creative Inventory Item search",
+    "1.15.1":"Fixed: Region files actually store 32 by 32 Chunks\nFixed: Region offset at negative chunk coordinates\nFixed: Region filename doesn't render sometimes" 
   }
 }
